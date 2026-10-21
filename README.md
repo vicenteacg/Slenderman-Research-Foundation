@@ -1,5 +1,9 @@
 # Slenderman Research Foundation
 
+> ⏸️ **Project on Hold**
+>
+> Development is currently on hold due to personal reasons. The project may resume at a later date. Thank you for your understanding.
+
 A fan-made web project inspired by the Slenderman myth, recreating the atmosphere of early-2010s paranormal websites. The site is designed as a fictional research archive where visitors can explore sightings, historical references, photographs, and stories related to the legend.
 
 > **Disclaimer:** This is a fictional fan project created for educational and portfolio purposes. It is not an ARG or an official Slenderman website.
